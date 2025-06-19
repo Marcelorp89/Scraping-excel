@@ -10,7 +10,7 @@ Los datos se ordenan en un Dataframe y se exportan en un archivo Excel.
 
 ## Como usarlo:
 
-1. Clona el repositorio o descarga el archivo 'webscraping.py'
+1. Clona el repositorio o descarga el archivo 'Scraping-excel.py'
 2. Instala las depedendicas (si no las tienes):
 
 >[!IMPORTANT]
